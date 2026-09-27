@@ -1,7 +1,6 @@
 # glucose-revolution-methodology
 
 ---
----
 
 ## 📜 许可 · License
 
